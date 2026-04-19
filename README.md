@@ -7,7 +7,7 @@ the Python standard library.
 ## Installation
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/minicv.git
+pip install git+https://github.com/mazenalfaqi/minicv.git
 ```
 
 ## Quick Start
